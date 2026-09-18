@@ -1,8 +1,8 @@
 public class drone {
     public static void main (String[] args){
-        int a=13;
-        int b=45;
-        int sum=a+b;
-        System.out.println("Sum:"+sum);
+        int a=45;
+        int b=13;
+        int sub=a-b;
+        System.out.println("Sub:"+sub);
     }
 }
